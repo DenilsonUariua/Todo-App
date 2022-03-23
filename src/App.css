@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 40px;
+}
+.label-header{
+  font-weight: 300;
+  font-size: 20;
+}
